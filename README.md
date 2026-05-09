@@ -1,38 +1,73 @@
-<h1>👋 &nbsp;Olá, eu sou o Micael, um desenvolvedor full stack apaixonado pelo que faz!</h1>
-<!-- <p align="center">
-<a href="https://instagram.com/dicasparadevs"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-dicasparadevs-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:felipemota.rocha@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+# 👋 Olá, eu sou o Micael Quilião! 🚀
 
-</p> -->
+### 👨‍💻 Analista de Sistemas | Mestre dos Monorepos | Encantador de RPA & Java Enthusiast
 
-<!-- <h2> 👨🏻‍💻 &nbsp;About Me </h2> -->
+Bem-vindo ao meu pequeno canto no GitHub! Aqui é onde transformo café em código e, ocasionalmente, tento dar `source ~/.zshrc` estando dentro do `bash` só para ver o terminal me humilhar publicamente. Sou um desenvolvedor que transita entre a robustez do **Java** e a agilidade do **Node**, enquanto mantenho o **C#** e o **Python** rodando em harmonia (ou quase isso)[cite: 1].
 
-<!-- - 👨🏻‍💻 &nbsp; Eu tive meu primeiro contato com linhas de código aos 11 anos de idade, quando queria criar um servidor privado do jogo que eu amava na época, que se chamava Transformice. Depois de muita pesquisa eu consegui, finalmente, colocá-lo online, e neste momento eu tive uma sensação mágica, que me lembro até hoje. Eu percebi que podia customizá-lo da maneira que eu quisesse, apenas escrevendo linhas de código — e isso me fascinava profundamente. Desde então, eu decidi que eu queria fazer isso na minha vida — eu queria ser um programador.
-- 💚 &nbsp; Conforme eu fui adquirindo experiência na área, descobri que tinha uma paixão: compartilhar meu conhecimento, e ajudar as pessoas por meio dele. Desde então, crio conteúdo para o Instagram (@dicasparadevs) e para o YouTube. Fico extremamente feliz quando consigo impactar uma pessoa positivamente, e, por isso, gosto tanto de fazer isso.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🏎 &nbsp; Sou apaixonado por automobilismo, especialmente por Fórmula 1, e costumo jogar simuladores no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia. -->
+---
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
+### 🛠️ O que eu ando aprontando? (The LAB Project)
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+Atualmente, estou focado no meu **LAB Arquitetural**: um **Gestor Financeiro para Casais** construído em um Sprint intensivo de 7 dias. É o tipo de projeto onde coloco as stacks para brigarem entre si para ver quem entrega a melhor defesa técnica.
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+*   **Backend Java:** (Spring Boot 21) Porque às vezes a gente precisa de "Ordem e Progresso" e tipagem forte.
+*   **Backend Node:** (Fastify + TS) Para quando a velocidade de entrega e a leveza são prioridade.
+*   **Frontend:** Next.js (App Router) + Tailwind para garantir que a UX não pareça um sistema do governo de 1998.
+*   **Infra:** PostgreSQL no Railway e deploys automatizados, porque a vida é curta demais para configurar banco local todo dia.
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+---
 
-<!-- <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+### 🧰 Meu Arsenal Tecnológico
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula) -->
+#### 🌍 Linguagens & Frameworks
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+#### 🤖 Automação & RPA
+![UiPath](https://img.shields.io/badge/uipath-%23FA4616.svg?style=for-the-badge&logo=uipath&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-Robot-blue?style=for-the-badge)
+
+#### 🗄️ Banco de Dados & Ferramentas
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 🎢 Fatos Reais (ou "Debugs da Vida")
+
+*   🤖 **IA & Dev:** Passo metade do dia usando IA para ganhar tempo e a outra metade me perguntando se ela vai me substituir ou se eu ainda vou ter que explicar por que o botão não está centralizado por mais 20 anos[cite: 1].
+*   📐 **Arquiteto de Interiores (no código e na planta):** Se eu não estiver refatorando um sistema legado, provavelmente estou em algum fórum discutindo como otimizar uma planta baixa para ter ambientes integrados e uma sala com vista para os fundos[cite: 1]. Sim, eu debugo plantas arquitetônicas.
+*   🍼 **Pai & Dev Sênior:** Treinando a próxima geração para entender que "na minha máquina funciona" não é uma resposta aceitável, enquanto procuro vídeos educativos para o meu filho entre um `commit` e outro[cite: 1].
+*   🐧 **Terminal Chronicles:** Recentemente tentei rodar comandos de ZSH no Bash. Spoiler: O Bash não ficou feliz. A gente ri para não chorar.
+
+---
+
+### 🤝 Vamos trocar uma ideia?
+
+Se você quer falar sobre arquitetura limpa, por que o Java 21 é incrível, ou como automatizar tarefas chatas com RPA que parecem feitiçaria:
+
+*   🏢 Atualmente como **Analista de Desenvolvimento I** no **Sicredi**.
+*   📍 **Cachoeira do Sul - RS / Brasil** 🇧🇷.
+*   💬 **Mantras de vida:** 
+    *   *"Cada User Story deve caber em 4 horas. Se passar disso, a gente quebra... ou o código, ou a cabeça"*.
+    *   *"Código limpo é código que você não precisa explicar pro seu eu do futuro daqui a 6 meses"*[cite: 1].
+
+---
+
+### 📊 Minhas Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+<p align="center">
+  "A programação é a arte de dizer a outro humano o que ele quer que o computador faça." 
+</p>
